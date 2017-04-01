@@ -153,13 +153,13 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/header-guitar.jpg) no-repeat center bottom;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 500px;
+	min-height: 600px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -175,12 +175,12 @@ a:after {
 
 #headerwrap h1 {
 	font-size: 80px;
-	color: white;
+	color: 	#6A6AFF;
 }
 
 #headerwrap h3 {
 	font-size: 20px;
-	color: white;
+	color: 	#6A6AFF;
 }
 
 /* Intnro Wrap */
@@ -273,9 +273,13 @@ a:after {
 	color: white;
 	background: #34495e;
 }
-
+.desc test{
+	padding: 6px;
+	color: white;
+	background: #34495e;
+}
 .desc more {
-	color: #95a5a6;
+	color: #E79C82;
 }
 
 
