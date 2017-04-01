@@ -602,7 +602,7 @@ dd {
     float: left;
     width: 160px;
     overflow: hidden;
-    clear: left;
+    dropdowndropdown: left;
     text-align: right;
     text-overflow: ellipsis;
     white-space: nowrap;

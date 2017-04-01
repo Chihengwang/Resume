@@ -2,8 +2,8 @@ var s = skrollr.init();
 
 $(window).scroll(function(evt){
   if ($(window).scrollTop()>0)
-    $(".navbar").removeClass("navbar-top")
+    $("#topbar-inner").removeClass("nav_top")
   else
- $(".navbar").addClass("navbar-top")
+ $("#topbar-inner").addClass("nav_top")
 
 });
