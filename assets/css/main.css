@@ -170,7 +170,22 @@ a:after {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    transition-duration: 0.5s;
+
 }
+/* test code*/
+#headerwrap:hover{
+	filter: brightness(0.5);
+/*    -webkit-background-size: 130%;
+    -moz-background-size: 130%;
+    -o-background-size: 130%;
+    background-size: 130%;*/
+}
+/*#headerwrap:hover h1{
+	font-size: 100px;
+	font-weight: 700;
+}*/
+
 
 #headerwrap h1 {
 	font-size: 80px;
@@ -293,4 +308,3 @@ sm {
 #topbar-inner{
     		background-color: #333;
     	}
-
