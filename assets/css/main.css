@@ -170,7 +170,7 @@ a:after {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    transition-duration: 0.5s;
+    transition-duration: 1s;
 
 }
 /* test code*/
